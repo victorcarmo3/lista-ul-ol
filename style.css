@@ -1,22 +1,22 @@
 * {
-    margin: 20px;
+    margin: 14px;
     padding: 0;
     box-sizing: border-box;
 }
 
 #tarefas {
-    font-size: 48px;
-    color: green;
-    background-color: brown;
+    font-size: 30px;
+    color: rgb(0, 41, 128);
+    background-color: rgb(133, 119, 0);
 }
 
 #treino-costas {
-    font-size: 48px;
-    color: green;
-    background-color: brown;
+    font-size: 30px;
+    color: rgb(0, 41, 128);
+    background-color: rgb(133, 119, 0);
 }
 
 h1 {
     text-align: center;
-    font-size: 50px;
+    font-size: 40px;
 }
